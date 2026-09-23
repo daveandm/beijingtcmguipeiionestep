@@ -10,7 +10,7 @@
 [使用说明](https://github.com/daveandm/beijingtcmguipeiionestep/releases/download/v1.2.0/User-Manual.txt) ·
 [图文教程](https://github.com/daveandm/beijingtcmguipeiionestep/releases/download/v1.2.0/Quick-Start-Tutorial.docx)
 
-> **建议使用前务必提前阅读。** 为保护患者隐私，具体住院病种及门诊病种等拍摄要求示例图未收录，
+> **建议使用前务必提前阅读图文教程。** 为保护患者隐私，具体住院病种及门诊病种等拍摄要求示例图未收录，
 > 下方界面图中的患者姓名与住院号也已替换为示例数据。
 > 需要示例图、更详细的操作示意，或想看具体视频使用教程，可**微信联系 dave**，或在**提瓦特找 109858638**。
 
