@@ -293,6 +293,28 @@
 
 ---
 
+## 手机版（安卓）
+
+电脑端的**同一套口径**搬到手机上：云端大模型识别病历图片 → 核对 → 提交到规培系统，
+并可在手机上**实时调取**网站已提交记录做进度统计。
+
+| 文件 | 说明 |
+|---|---|
+| [**手机版 APK**](https://github.com/daveandm/beijingtcmguipeiionestep/releases/download/mobile-v1.2.5/GuipeiAssistant-Mobile-v1.2.5.apk) | 安卓安装包，约 210 KB，版本 v1.2.5（与电脑端版本号独立） |
+| [**手机版使用说明**](https://github.com/daveandm/beijingtcmguipeiionestep/releases/download/mobile-v1.2.5/GuipeiAssistant-Mobile-v1.2.5-Manual.md) | 图文说明，**截图已内嵌、单文件自包含**，建议先看 |
+
+- ✅ **不含本地 OCR，识别需联网**（走云端视觉大模型）
+- ✅ 首次使用三步：选身份 → App 内登录规培系统 → 拍照/相册识别
+- ✅ **状态页**可按科室汇总调取网站已提交记录；**进度看板**有「按科室组」和「逐月浏览」两种视图
+- ✅ 门诊病历折叠成 4 个字段，手机上不用填 17 个框；**提交逻辑与电脑端完全一致**
+- ✅ 设置里可切换轮转表来源（内置表 / 网站在线拉取本人）
+
+> 识别走云端大模型，图片会发往服务商 —— 涉患者隐私，请谨慎；API Key 只保存在本机。
+
+完整安装包与功能补丁见 [Releases 页面](https://github.com/daveandm/beijingtcmguipeiionestep/releases)。
+
+---
+
 ## 命令行自动化（guipei-autofill）
 
 > 进阶可选功能，和上面的图形界面**互不影响** —— 不需要就不用管它。
