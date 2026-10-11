@@ -29,7 +29,7 @@
 
 ## 规培助手 · 手机版 使用说明
 
-版本：v1.2.5　｜　安装文件：`规培助手手机版-v1.2.5.apk`　｜　界面截图：已内嵌于本文档（单文件自包含）
+版本：v1.2.12　｜　安装文件：[`GuipeiAssistant-Mobile-v1.2.12.apk`](https://github.com/daveandm/beijingtcmguipeiionestep/releases/download/mobile-v1.2.12/GuipeiAssistant-Mobile-v1.2.12.apk)　｜　界面截图：已内嵌于本文档（单文件自包含）
 
 手机版与电脑端「规培一键填写」同一套口径：云端视觉大模型识别病历图片 → 核对 → 提交到规培系统（gp.itcm.cn），并可在手机上实时调取网站已提交记录做进度统计。**不含本地 OCR**，识别需联网。
 
